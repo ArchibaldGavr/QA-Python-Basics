@@ -1,0 +1,5 @@
+print("Hello QA")
+print("My name is Viktor")
+print("I’m 45 years old")
+print("I’m living in Turku, Finland")
+print("Goal: Full-Stack QA")
